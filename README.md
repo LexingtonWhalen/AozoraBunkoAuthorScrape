@@ -3,7 +3,7 @@
 ## Analysis of the language classical Japanese Authors.
 
 ## :cinema: Video:
-* 
+* https://youtu.be/bJBgzSUPUkc
 
 ## :grey_question: What is it?
 * Scrapes the language of each Japanese author from AozoraBunko. Gives a glimpse of the distribution of language / parts of speech used by each authors. Graphs it with matplotlib. Uses 100 authors in the video.
